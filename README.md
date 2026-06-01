@@ -1,4 +1,4 @@
-# Customer Support Ticket Classification
+# Support Ticket Classification
 
 ## 📌 Overview
 This project uses Machine Learning and Natural Language Processing (NLP) to automatically classify customer support tickets into categories such as Technical, Billing, Support, and Security.
